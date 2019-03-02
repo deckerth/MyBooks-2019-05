@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\MARCTest\MARCLib\MyBooks.MARC.csproj" />
     <ProjectReference Include="..\MyBooks.Models\MyBooks.Models.vbproj" />
     <ProjectReference Include="..\MyBooks.OCLCClassify\MyBooks.OCLCClassify.vbproj" />
   </ItemGroup>
